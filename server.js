@@ -6,7 +6,7 @@ import Cors from 'cors';
 //App config
 const app = express();
 const port = process.env.PORT || 8001;
-const connection_url = 'very top secret.. sorry you can't see it'
+const connection_url = "very top secret.. sorry you can't see it"
 
 
 //Middleware
